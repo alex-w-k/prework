@@ -57,7 +57,7 @@
 **Booleans**
 * What do each of the following symbols mean?
   + ==
-  + >=
+  + \>=
   + <=
   + !=
   + &&
@@ -67,7 +67,7 @@
 **Conditionals**
 * What is flow control?
 * What will the following code return?
-```
+```ruby
 apple_count = 4
 
 if apple_count > 5
